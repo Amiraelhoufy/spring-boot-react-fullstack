@@ -1,0 +1,10 @@
+server:
+  servlet:
+    context-path: /api/v1
+
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5332/reactdemo
+    username: test
+    password: password
+    pool-size: 30
