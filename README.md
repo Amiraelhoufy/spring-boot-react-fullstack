@@ -27,9 +27,6 @@ This project showcases the development of a full-stack web application using **S
 ## Getting Started
 
 To clone and run this application locally, follow these steps:
-## Getting Started
-
-To clone and run this application locally, follow these steps:
 
 1. Clone the repository:
     ```cmd
